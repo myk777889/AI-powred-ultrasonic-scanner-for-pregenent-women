@@ -1,4 +1,4 @@
-# AI-powred-ultrasonic-scanner-for-pregenent-women
+# AI-powred-ultrasonic-scanner-for-pregnant-women
 print("CNN script started")
 
 import tensorflow as tf
